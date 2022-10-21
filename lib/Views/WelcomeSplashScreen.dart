@@ -51,6 +51,7 @@ class _WelcomeSplashScreenState extends State<WelcomeSplashScreen> {
                 color: Colors.white,
                 height: 200,
               ),
+
               Expanded(
                 child: SplashScreen(
                   seconds: 5,
